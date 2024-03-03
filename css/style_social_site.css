@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+a.navbar-brand {
+    color: cornflowerblue;
+    font-weight: 700;
+}
+
+.navbar-toggler{
+    border: none;
+}
+
+.navbar-toggler:focus {
+    text-decoration: none;
+    outline: 0;
+    box-shadow: 0 0 7px 0px rgba(0, 0, 255, 0.178);
+    border: 0.8px solid yellowgreen;
+}
